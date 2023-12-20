@@ -1,0 +1,17 @@
+{
+  "id": "mig_clt9qp151tlm97joueb0",
+  "parentID": "mig_clt9pvmikbucdv4463g0",
+  "checksum": "1:75370c2fbc3c45cffbb5259de842afee4c974682675f48092cad79715b5f789c",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "username",
+          "type": "string",
+          "unique": true
+        },
+        "table": "Users"
+      }
+    }
+  ]
+}

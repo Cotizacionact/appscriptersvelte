@@ -1,0 +1,16 @@
+{
+  "id": "mig_clt9sg6ikbucdv4463i0",
+  "parentID": "mig_clt9rvpufgk57snhd05g",
+  "checksum": "1:dfbd90f1c5acf77956e47187512aee8e3030fe1142253d9e3f06948e32ccbda4",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "profile_image",
+          "type": "string"
+        },
+        "table": "Users"
+      }
+    }
+  ]
+}

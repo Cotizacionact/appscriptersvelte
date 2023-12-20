@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Cotizacionact-s-workspace-rgc5kh.us-east-1.xata.sh/db/appscriptersvelte",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
